@@ -1,6 +1,6 @@
 # How to migrate from SQLAlchemy to PostgreSQL or any database
 
-## Tool needed
+## Library needed
 `pip install alembic`
 
 ### Steps to start migration
